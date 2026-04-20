@@ -1,1 +1,1 @@
-# Analyzing-business-processes
+СЦЕНАРНИЙ АНАЛІЗ БІЗНЕС ПРОЦЕСІВ
